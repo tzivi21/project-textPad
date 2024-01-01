@@ -1,4 +1,6 @@
 # React + Vite
+Text writing area with changings  fonts,locations,colors,key boards etc.
+Also a button that ilustrate ctrl z on the app. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
